@@ -7,10 +7,13 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 HTML, CSS, JavaScript  
-- ⚛️ React  
-- 🐍 Python  
-- 🔧 Git & GitHub  
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
 
 ---
 
