@@ -18,13 +18,12 @@
 
 ## 🚀 My Projects
 
-- 🎯 Student Scoreboard  
-- 👗 Virtual Try-On  
-- 💸 Expense Tracker  
-- 📊 Data Analysis Dashboard  
-- 🌐 Web Development Projects  
-- 🤖 AI Sign Language Interpreter  
-- 🧠 Flask Social App  
+- 🎯 [Student Scoreboard](https://github.com/aditi0586/student-scoreboard)
+- 👗 [Virtual Try-On](https://github.com/aditi0586/virtual-try-on)
+- 💸 [Expense Tracker](https://github.com/aditi0586/expense-tracker)
+- 📊 [Data Analysis Dashboard](https://github.com/aditi0586/data-analysis-dashboard)
+- 🌐 [Web Dev Projects](https://github.com/aditi0586/web-dev-adv-2)
+- 🤖 [AI Sign Language Interpreter](https://github.com/aditi0586/AI-Based-sign-language-interpreter) 
 
 ---
 
