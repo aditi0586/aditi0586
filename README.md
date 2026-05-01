@@ -9,11 +9,6 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditi0586&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
-
----
 
 🎓 Engineering Student  
 💻 Passionate about Web Development & Python  
