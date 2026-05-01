@@ -1,12 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Aditi Pandey
+# 👋 Hi, I'm Aditi Pandey  
 
-### Web Development Enthusiast | React Learner | Python Explorer
+### 💻 Web Developer | ⚛️ React Learner | 🐍 Python Explorer  
 
-Building clean, practical, and beginner-friendly projects while learning modern web technologies.
+✨ Building practical projects and learning modern web technologies step by step  
 
 </div>
+
+---
 
 ---
 
