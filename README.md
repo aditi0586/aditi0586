@@ -10,8 +10,6 @@
 
 ---
 
----
-
 🎓 Engineering Student  
 💻 Passionate about Web Development & Python  
 🚀 Exploring React & building real-world projects  
