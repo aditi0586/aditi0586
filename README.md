@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Aditi
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+I'm+Aditi+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;React+Learner+%F0%9F%9A%80;Building+cool+projects+%E2%9C%A8" />
+</p>
 
 🎓 Engineering Student  
 💻 Passionate about Web Development & Python  
