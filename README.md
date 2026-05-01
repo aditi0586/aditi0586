@@ -1,5 +1,14 @@
-# 👋 Hi, I'm Aditi
-### 💻 Web Developer | 🚀 React Learner | 🐍 Python Enthusiastv
+<div align="center">
+
+# 👋 Hi, I'm Aditi Pandey
+
+### Web Development Enthusiast | React Learner | Python Explorer
+
+Building clean, practical, and beginner-friendly projects while learning modern web technologies.
+
+</div>
+
+---
 
 🎓 Engineering Student  
 💻 Passionate about Web Development & Python  
